@@ -10,8 +10,15 @@ https://nodejs.org/en/download/prebuilt-installer
 ensuite : 
 aller dans FRONT/PING_FRONT
 taper "npm run dev".
-Si il manque des dependance installe avec
-la commande suivante :  
-npm install "le nom du truc qui manque"
+
+Normalement cv pas marcher pour fix :
+dans FRONT/PING_FRONT fait "rm -rf node_modules package_lock.json"
+et fait un "npm install"
+
+En gros ça rajoute les packet manquant
+
+ET pour finir fait "npm run dev" toujour dans FRONT/PING_FRONT
+
+cv te creer un url en localhost ouvre la.
 
 
