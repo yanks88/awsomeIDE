@@ -9,8 +9,9 @@ https://nodejs.org/en/download/prebuilt-installer
 
 ensuite : 
 aller dans FRONT/PING_FRONT
-taper npm run dev 
-si il manque des dependance installe les
+taper "npm run dev".
+Si il manque des dependance installe avec
+la commande suivante :  
 npm install "le nom du truc qui manque"
 
 
