@@ -1,5 +1,6 @@
 # ⚡ Online IDE with React Native & Vite 🚀
 
+![Online IDE Preview](./web_editor.png)
 ## 📝 Description
 
 This project is an **online Integrated Development Environment (IDE)** built using **React Native** for the user interface and **Vite** as the development bundler. The IDE supports **code autocompletion** and **debugging** for **JavaScript**, **Python**, and **C** languages. It allows users to write code, receive suggestions, and run their code while viewing helpful debug messages in real-time! 🖥️✨
