@@ -26,3 +26,5 @@ This project is an **online Integrated Development Environment (IDE)** built usi
    ```bash
    git clone https://github.com/yanks88/awsomeIDE.git
    cd awsomeide/FRONT/PING_FRONT
+   npm install
+   npm run dev
